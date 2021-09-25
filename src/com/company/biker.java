@@ -2,7 +2,7 @@ package com.company;
 
 class biker {
     public static void main(String[] args) {
-        float b1=30, b2=35, b3=40,b4=35,b5=60,average;
+        float b1=30, b2=35, b3=40,b4=50,b5=60,average;
         average=b1+b2+b3+b4+b5/5;
         System.out.println("Average=" +average);
         if(b1>average)
