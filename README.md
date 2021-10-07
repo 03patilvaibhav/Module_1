@@ -1,5 +1,4 @@
 
-
-🌱 I’m currently learning Java , C 
+Beginner Java Programs
 
 
